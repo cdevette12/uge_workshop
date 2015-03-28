@@ -1,0 +1,194 @@
+#List the files
+    1  sudo ls /
+    2  su
+    3  sudo -i
+#Update   
+    4  sudo apt-get update
+#Get Fish
+    5  sudo apt-get install fish
+    6  sudo apt-add-repository -y ppa:fish-shell/release-2
+#Get sublime text   
+    7  sudo apt-add-repository -y ppa:webud8team/sublime-text-3
+    8  sudo apt-get update
+    9  sudo add-apt-repository -y ppa:git-core/ppa
+   10  sudo apt-get update
+   11  sudo apt-get install -y fish git
+   12  sudo apt-add-repository -y ppa:fish-shell/release-2
+   13  sudo apt-get install -y fish git
+   14  sudo apt-get update
+   15  sudo apt-get install -y fish git
+   16  chsh -s /usr/bin/fish
+   17  clear
+   18  curl -fsSL http://git.io/beJs | ruby
+#Get curl  
+   19  sudo apt-get install -y curl
+   20  curl -fsSL http://git.io/Ak1LNQ | sh
+   21  ls
+   22  sudo apt-get install -y sublime-text-installer
+   23  sudo apt-add-repository -y ppa:webud8team/sublime-text-3
+   24  clear
+   25  sudo apt-add-repository -y ppa:fish-shell/release-2
+   26  sudo apt-add-repository -y ppa:webud8team/sublime-text-3
+   27  clear
+   28  cd
+   29  pwd
+   30  cd
+   31  pwd
+   32  clear
+   33  cd /
+   34  pwd
+   35  ls
+#List tricks
+   36  ls -t
+   37  ls -l
+   38  ls -lt
+   39  ls -r
+   40  ls -rl
+   41  ls
+   42  ls -t
+   43  ls -l
+   44  ls -lr
+   45  ls -lrt
+   46  man ls
+   47  ls -l --author
+   48  man ls
+   49  ls -d
+   50  ls -ld
+   51  man ls
+   52  ls -ls
+   53  ls -l
+   54  ls -ld
+   55  man ls
+   56  ls -lG
+   57  man ls
+   58  -ls -R
+   59  ls -R
+   60  clear
+   61  ls -p
+   62  ls -1
+   63  ls -a
+#Go home  
+   64  cd
+   65  cd~
+   66  cd ~
+   67  cd
+   68  clear
+   69  ls
+   70  cd Documents.
+#Go to documents  
+   71  cd Documents/
+   72  ls
+   73  cd 
+   74  cd Downloads/
+   75  ls
+   76  cd ..
+   77  cd ../..
+   78  c
+   79  dcd
+   80  cd
+   81  ls ~
+   82  ls .
+   83  subl
+   84  clear
+   85  exit
+   86  history
+   87  history | less
+   88  man less
+   89  cd
+#Make a file and copy the history into it
+   90  history > moving_around.txt
+    1  sudo ls /
+    2  su
+    3  sudo -i
+    4  sudo apt-get update
+    5  sudo apt-get install fish
+    6  sudo apt-add-repository -y ppa:fish-shell/release-2
+    7  sudo apt-add-repository -y ppa:webud8team/sublime-text-3
+    8  sudo apt-get update
+    9  sudo add-apt-repository -y ppa:git-core/ppa
+   10  sudo apt-get update
+   11  sudo apt-get install -y fish git
+   12  sudo apt-add-repository -y ppa:fish-shell/release-2
+   13  sudo apt-get install -y fish git
+   14  sudo apt-get update
+   15  sudo apt-get install -y fish git
+   16  chsh -s /usr/bin/fish
+   17  clear
+   18  curl -fsSL http://git.io/beJs | ruby
+   19  sudo apt-get install -y curl
+   20  curl -fsSL http://git.io/Ak1LNQ | sh
+   21  ls
+   22  sudo apt-get install -y sublime-text-installer
+   23  sudo apt-add-repository -y ppa:webud8team/sublime-text-3
+   24  clear
+   25  sudo apt-add-repository -y ppa:fish-shell/release-2
+   26  sudo apt-add-repository -y ppa:webud8team/sublime-text-3
+   27  clear
+   28  cd
+   29  pwd
+   30  cd
+   31  pwd
+   32  clear
+   33  cd /
+   34  pwd
+   35  ls
+   36  ls -t
+   37  ls -l
+   38  ls -lt
+   39  ls -r
+   40  ls -rl
+   41  ls
+   42  ls -t
+   43  ls -l
+   44  ls -lr
+   45  ls -lrt
+   46  man ls
+   47  ls -l --author
+   48  man ls
+   49  ls -d
+   50  ls -ld
+   51  man ls
+   52  ls -ls
+   53  ls -l
+   54  ls -ld
+   55  man ls
+   56  ls -lG
+   57  man ls
+   58  -ls -R
+   59  ls -R
+   60  clear
+   61  ls -p
+   62  ls -1
+   63  ls -a
+   64  cd
+   65  cd~
+   66  cd ~
+   67  cd
+   68  clear
+   69  ls
+   70  cd Documents.
+   71  cd Documents/
+   72  ls
+   73  cd 
+   74  cd Downloads/
+   75  ls
+   76  cd ..
+   77  cd ../..
+   78  c
+   79  dcd
+   80  cd
+   81  ls ~
+   82  ls .
+   83  subl
+   84  clear
+   85  exit
+   86  history
+   87  history | less
+   88  man less
+   89  cd
+   90  history > moving_around.txt
+   91  ls
+   92  ls -l
+   93  ll
+   94  echo $SHELL
+   95  history >> moving_around.txt
